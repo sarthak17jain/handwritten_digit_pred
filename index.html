@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" >
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+</head>
+<style>
+
+</style>
+<body>
+
+<div id="head"><p id="heading">
+  Hand Written Digit Prediction</p>
+</div>
+
+<div id="box">
+  <canvas id="canvas_box" height="200px" width="200px"></canvas>
+</div>
+
+<div id="buttons">
+  <button id="clear-button" class="btn btn-dark">Clear</button>
+  <button id="predict-button" class="btn btn-dark">Predict</button>
+</div>
+
+<div id="output">
+  <p class="text" >PREDICTION:</p>
+  <p id="result" class="text"></p>
+</div>
+<script src="digit-recognition.js"></script>
+
+</body>
+</html>
