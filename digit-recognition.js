@@ -35,10 +35,10 @@ var model = undefined;
   canvas.addEventListener("mousedown",startingposition);
   canvas.addEventListener("mouseup",finishedposition);
   canvas.addEventListener("mousemove",draw);
-  //event listeners for mobile
+/* //event listeners for mobile
   canvas.addEventListener("touchstart",startingposition);
   canvas.addEventListener("touchend",finishedposition);
-  canvas.addEventListener("touchmove",draw);
+  canvas.addEventListener("touchmove",draw);*/
 
 
   $("#clear-button").click(async function () {
