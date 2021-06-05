@@ -41,12 +41,5 @@ body{
     text-align: center;
     padding-top: 5px;
   }
-@media only screen and (max-height: 700px){
-    #heading{
-      font-size: 20px;
-      color: #bb371a;
-      text-align: center;
-      padding-top: 5px;
-    }
 
 }
