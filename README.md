@@ -9,6 +9,6 @@ Used Canvas HTML API for the user to draw the digits.
 Added JS Event listeners. 
 
 Works on both touch interfaces and computers. 
-Predicts the Digit drawn by the user from 0-9 with confidence level:
-###Check out live website at: https://sarthak17jain.github.io/handwritten_digit_pred/
+Predicts the Digit drawn by the user from 0-9 with confidence level:<br>
+**Check out live website at: https://sarthak17jain.github.io/handwritten_digit_pred/**
 
