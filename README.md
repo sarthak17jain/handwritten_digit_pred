@@ -8,6 +8,9 @@ Trained a CNN model on the MNIST dataset. <br>
 Used Canvas HTML API for the user to draw the digits.
 Added JS Event listeners. 
 
+## Preview:
+![Preview_gif](https://github.com/sarthak17jain/handwritten_digit_pred/blob/main/Animation.gif)
+
 Works on both touch interfaces and computers. 
 Predicts the Digit drawn by the user from 0-9 with confidence level:<br>
 **Check out live website at: https://sarthak17jain.github.io/handwritten_digit_pred/**
