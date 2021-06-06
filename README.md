@@ -10,5 +10,5 @@ Added JS Event listeners.
 
 Works on both touch interfaces and computers. 
 Predicts the Digit drawn by the user from 0-9 with confidence level:
-Check out live website at: https://sarthak17jain.github.io/handwritten_digit_pred/
+###Check out live website at: https://sarthak17jain.github.io/handwritten_digit_pred/
 
