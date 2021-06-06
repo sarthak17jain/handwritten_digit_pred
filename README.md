@@ -10,6 +10,9 @@ Added JS Event listeners.
 
 ## Preview:
 ![Preview_gif](https://github.com/sarthak17jain/handwritten_digit_pred/blob/main/Animation.gif)
+<br>
+<br>
+![Preview gif](https://github.com/sarthak17jain/handwritten_digit_pred/blob/main/20210606_102746.gif)
 
 Works on both touch interfaces and computers. 
 Predicts the Digit drawn by the user from 0-9 with confidence level:<br>
